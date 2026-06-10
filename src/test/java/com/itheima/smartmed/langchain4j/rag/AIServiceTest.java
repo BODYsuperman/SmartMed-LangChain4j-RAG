@@ -27,7 +27,7 @@ public class AIServiceTest {
     }
 
     @Test
-    public void testChatq() {
+    public void testChat1() {
 
 
         String answer = assistant.chat("Hello, how many parameters do you have, what can you do?");
