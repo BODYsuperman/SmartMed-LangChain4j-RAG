@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="002411b6-36de-4a80-8183-9963e3902e20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/backend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/xiaozhi-ui/src/components/ChatWindow.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/xiaozhi-ui/src/components/ChatWindow.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3Esj9Ey0Gcc95DZqmgr71mdgrPa" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -34,49 +35,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.AIServiceTest.testChat.executor": "Run",
-    "JUnit.AIServiceTest.testChatq.executor": "Run",
-    "JUnit.AppointmentServiceTest.testGetOne.executor": "Debug",
-    "JUnit.AppointmentServiceTest.testRemoveById.executor": "Debug",
-    "JUnit.AppointmentServiceTest.testSave.executor": "Debug",
-    "JUnit.ChatMemoryTest.testChatMemory2.executor": "Debug",
-    "JUnit.ChatMemoryTest.testChatMemory3.executor": "Run",
-    "JUnit.ChatMemoryTest.testChatMemory4.executor": "Run",
-    "JUnit.ChatMemoryTest.testChatMemory5.executor": "Run",
-    "JUnit.LLMTest.testGPTDemo.executor": "Debug",
-    "JUnit.LLMTest.testOllama.executor": "Run",
-    "JUnit.LLMTest.testSpringBoot.executor": "Run",
-    "JUnit.MongoCrudTest.testDelete.executor": "Run",
-    "JUnit.MongoCrudTest.testFindById.executor": "Run",
-    "JUnit.MongoCrudTest.testInsert2.executor": "Run",
-    "JUnit.MongoCrudTest.testUpdate.executor": "Run",
-    "JUnit.MongoCrudTest.testUpdate2.executor": "Run",
-    "JUnit.PromptTest.testSystemMessage.executor": "Run",
-    "JUnit.PromptTest.testUserInfo.executor": "Debug",
-    "JUnit.PromptTest.testUserMessage.executor": "Debug",
-    "JUnit.PromptTest.testV.executor": "Run",
-    "JUnit.RAGTest.embeddingSearch.executor": "Debug",
-    "JUnit.RAGTest.testEmbedding.executor": "Debug",
-    "JUnit.RAGTest.testParsePDF.executor": "Debug",
-    "JUnit.RAGTest.testPineconeEmbeded.executor": "Debug",
-    "JUnit.RAGTest.testReadDocument.executor": "Debug",
-    "JUnit.RAGTest.testReadDocumentAndStore.executor": "Debug",
-    "JUnit.RAGTest.testTokenCount.executor": "Debug",
-    "JUnit.RAGTest.testUploadKnowledgeLibrary.executor": "Debug",
-    "JUnit.ToolsTest.testCalculatorTools.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.XiaozhiApp.executor": "Debug",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.AIServiceTest.testChat.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AIServiceTest.testChatq.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppointmentServiceTest.testGetOne.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.AppointmentServiceTest.testRemoveById.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.AppointmentServiceTest.testSave.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ChatMemoryTest.testChatMemory2.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ChatMemoryTest.testChatMemory3.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ChatMemoryTest.testChatMemory4.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ChatMemoryTest.testChatMemory5.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LLMTest.testGPTDemo.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.LLMTest.testOllama.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LLMTest.testSpringBoot.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MongoCrudTest.testDelete.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MongoCrudTest.testFindById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MongoCrudTest.testInsert2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MongoCrudTest.testUpdate.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MongoCrudTest.testUpdate2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PromptTest.testSystemMessage.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PromptTest.testUserInfo.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.PromptTest.testUserMessage.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.PromptTest.testV.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RAGTest.embeddingSearch.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.RAGTest.testEmbedding.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.RAGTest.testParsePDF.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.RAGTest.testPineconeEmbeded.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.RAGTest.testReadDocument.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.RAGTest.testReadDocumentAndStore.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.RAGTest.testTokenCount.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.RAGTest.testUploadKnowledgeLibrary.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ToolsTest.testCalculatorTools.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.XiaozhiApp.executor&quot;: &quot;Debug&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Spring Boot.XiaozhiApp">
     <configuration name="RAGTest.embeddingSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="smartmed-langchain4j-rag" />

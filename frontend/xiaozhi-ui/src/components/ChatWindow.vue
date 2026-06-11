@@ -4,11 +4,11 @@
       <div class="logo-section">
         <img
           src="@/assets/logo.png"
-          alt="Smart MediAssist"
+          alt="Smart MediAssist Agent"
           width="160"
           height="160"
         />
-        <span class="logo-text">Smart MediAssist</span>
+        <span class="logo-text">Smart MedAssist</span>
       </div>
       <el-button class="new-chat-button" @click="newChat">
         <i class="fa-solid fa-plus"></i>
@@ -110,7 +110,7 @@ const sendRequest = (message) => {
     messages.value.push(userMsg);
   }
 
-  // 添加机器人加载消息
+  // 添加机器人load消息
   const botMsg = {
     isUser: false,
     content: "", // 增量填充
