@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="002411b6-36de-4a80-8183-9963e3902e20" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/backend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="3Esj9Ey0Gcc95DZqmgr71mdgrPa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AIServiceTest.testChat.executor": "Run",
+    "JUnit.AIServiceTest.testChatq.executor": "Run",
+    "JUnit.AppointmentServiceTest.testGetOne.executor": "Debug",
+    "JUnit.AppointmentServiceTest.testRemoveById.executor": "Debug",
+    "JUnit.AppointmentServiceTest.testSave.executor": "Debug",
+    "JUnit.ChatMemoryTest.testChatMemory2.executor": "Debug",
+    "JUnit.ChatMemoryTest.testChatMemory3.executor": "Run",
+    "JUnit.ChatMemoryTest.testChatMemory4.executor": "Run",
+    "JUnit.ChatMemoryTest.testChatMemory5.executor": "Run",
+    "JUnit.LLMTest.testGPTDemo.executor": "Debug",
+    "JUnit.LLMTest.testOllama.executor": "Run",
+    "JUnit.LLMTest.testSpringBoot.executor": "Run",
+    "JUnit.MongoCrudTest.testDelete.executor": "Run",
+    "JUnit.MongoCrudTest.testFindById.executor": "Run",
+    "JUnit.MongoCrudTest.testInsert2.executor": "Run",
+    "JUnit.MongoCrudTest.testUpdate.executor": "Run",
+    "JUnit.MongoCrudTest.testUpdate2.executor": "Run",
+    "JUnit.PromptTest.testSystemMessage.executor": "Run",
+    "JUnit.PromptTest.testUserInfo.executor": "Debug",
+    "JUnit.PromptTest.testUserMessage.executor": "Debug",
+    "JUnit.PromptTest.testV.executor": "Run",
+    "JUnit.RAGTest.embeddingSearch.executor": "Debug",
+    "JUnit.RAGTest.testEmbedding.executor": "Debug",
+    "JUnit.RAGTest.testParsePDF.executor": "Debug",
+    "JUnit.RAGTest.testPineconeEmbeded.executor": "Debug",
+    "JUnit.RAGTest.testReadDocument.executor": "Debug",
+    "JUnit.RAGTest.testReadDocumentAndStore.executor": "Debug",
+    "JUnit.RAGTest.testTokenCount.executor": "Debug",
+    "JUnit.RAGTest.testUploadKnowledgeLibrary.executor": "Debug",
+    "JUnit.ToolsTest.testCalculatorTools.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.XiaozhiApp.executor": "Debug",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.XiaozhiApp">
+    <configuration name="RAGTest.embeddingSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smartmed-langchain4j-rag" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.smartmed.langchain4j.rag.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.smartmed.langchain4j.rag" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.smartmed.langchain4j.rag.RAGTest" />
+      <option name="METHOD_NAME" value="embeddingSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <envs>
+        <env name="PINECONE_API_KEY" value="pcsk_k4RWi_Sw3W7AEWtHg8pXxd3sUBJir8TspqybzbYr5sKFUM1WPHN1okvCN9sAG2c2WHvu" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RAGTest.testEmbedding" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smartmed-langchain4j-rag" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.smartmed.langchain4j.rag.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.smartmed.langchain4j.rag" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.smartmed.langchain4j.rag.RAGTest" />
+      <option name="METHOD_NAME" value="testEmbedding" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RAGTest.testPineconeEmbeded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smartmed-langchain4j-rag" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.smartmed.langchain4j.rag.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.smartmed.langchain4j.rag" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.smartmed.langchain4j.rag.RAGTest" />
+      <option name="METHOD_NAME" value="testPineconeEmbeded" />
+      <option name="TEST_OBJECT" value="method" />
+      <envs>
+        <env name="PINECONE_API_KEY" value="pcsk_k4RWi_Sw3W7AEWtHg8pXxd3sUBJir8TspqybzbYr5sKFUM1WPHN1okvCN9sAG2c2WHvu" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RAGTest.testUploadKnowledgeLibrary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smartmed-langchain4j-rag" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.smartmed.langchain4j.rag.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.smartmed.langchain4j.rag" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.smartmed.langchain4j.rag.RAGTest" />
+      <option name="METHOD_NAME" value="testUploadKnowledgeLibrary" />
+      <option name="TEST_OBJECT" value="method" />
+      <envs>
+        <env name="PINECONE_API_KEY" value="pcsk_k4RWi_Sw3W7AEWtHg8pXxd3sUBJir8TspqybzbYr5sKFUM1WPHN1okvCN9sAG2c2WHvu" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiaozhiApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="PINECONE_API_KEY" value="pcsk_k4RWi_Sw3W7AEWtHg8pXxd3sUBJir8TspqybzbYr5sKFUM1WPHN1okvCN9sAG2c2WHvu" />
+      </envs>
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="smartmed-langchain4j-rag" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.smartmed.langchain4j.rag.XiaozhiApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.smartmed.langchain4j.rag.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RAGTest.testUploadKnowledgeLibrary" />
+      <item itemvalue="JUnit.RAGTest.embeddingSearch" />
+      <item itemvalue="JUnit.RAGTest.testEmbedding" />
+      <item itemvalue="JUnit.RAGTest.testPineconeEmbeded" />
+      <item itemvalue="Spring Boot.XiaozhiApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.XiaozhiApp" />
+        <item itemvalue="JUnit.RAGTest.testUploadKnowledgeLibrary" />
+        <item itemvalue="JUnit.RAGTest.embeddingSearch" />
+        <item itemvalue="JUnit.RAGTest.testPineconeEmbeded" />
+        <item itemvalue="JUnit.RAGTest.testEmbedding" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="002411b6-36de-4a80-8183-9963e3902e20" name="Changes" comment="" />
+      <created>1780974019722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780974019722</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/itheima/smartmed/langchain4j/rag/LLMTest.java</url>
+          <line>17</line>
+          <properties class="com.itheima.smartmed.langchain4j.rag.LLMTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/itheima/smartmed/langchain4j/rag/AIServiceTest.java</url>
+          <line>29</line>
+          <properties class="com.itheima.smartmed.langchain4j.rag.AIServiceTest" method="testChat1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/itheima/smartmed/langchain4j/rag/MongoCrudTest.java</url>
+          <line>40</line>
+          <properties class="com.itheima.smartmed.langchain4j.rag.MongoCrudTest" method="testFindById">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
