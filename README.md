@@ -1,6 +1,8 @@
-# LangChain4J-SmartMed Agent
-
 <div align="center">
+
+![SmartMed Agent](./res-2.png)
+
+# LangChain4J-SmartMed Agent
 
 **[English](#english-version) | [中文](#中文版本)**
 
