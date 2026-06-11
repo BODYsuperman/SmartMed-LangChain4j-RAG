@@ -4,6 +4,22 @@
 
 # LangChain4J-SmartMed Agent
 
+![Java](https://img.shields.io/badge/Java-17+-ED8B00?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.6-6DB33F?logo=spring&logoColor=white)
+![LangChain4J](https://img.shields.io/badge/LangChain4J-1.0.0--beta3-blue?logo=langchain&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-3.5.13-4FC08D?logo=vue.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5.4.8-646CFF?logo=vite&logoColor=white)
+![Element Plus](https://img.shields.io/badge/Element_Plus-2.8.4-409EFF?logo=element&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6.x-47A248?logo=mongodb&logoColor=white)
+![MyBatis Plus](https://img.shields.io/badge/MyBatis_Plus-3.5.11-FF6A00?logo=mybatis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-000000?logo=pinecone&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-000000?logo=ollama&logoColor=white)
+![WebFlux](https://img.shields.io/badge/WebFlux-Reactive-6DB33F?logo=spring&logoColor=white)
+![Knife4j](https://img.shields.io/badge/Knife4j-4.4.0-FF5722?logo=swagger&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-1.7.7-5A29E4?logo=axios&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-3.x-C71A36?logo=apache-maven&logoColor=white)
+
 **[English](#english-version) | [中文](#中文版本)**
 
 </div>
